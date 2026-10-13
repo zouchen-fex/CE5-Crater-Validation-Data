@@ -1,0 +1,13 @@
+{
+  "scope": "CE-5 data and NAC validation analysis only",
+  "files_checked": 110,
+  "method_code_excluded": true,
+  "CE6_excluded": true,
+  "private_paths_excluded": true,
+  "NAC_reference_remeasurement_n": 68,
+  "verification": "Native reference and coarse-grid values reproduced within floating-point roundoff.",
+  "public_code": [
+    "analysis/NAC_validation/analyze_common68_errors.py",
+    "analysis/NAC_validation/measure_nac_references.py"
+  ]
+}

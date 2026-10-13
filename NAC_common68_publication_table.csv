@@ -1,0 +1,8 @@
+﻿Parameter,N,MAE,RMSE,Median ARE (%),Unit
+Depth,68,6.042,7.769,7.39,m
+Mean center-to-wall inclination,68,0.973,1.301,7.28,deg
+Maximum center-to-wall inclination,68,1.935,2.657,9.00,deg
+Crater volume,68,0.796,1.134,6.37,10^6 m3 (projected area)
+Rim height,68,2.230,2.699,49.23,m
+Floor RMS,68,2.754,3.618,35.37,m
+Relief,68,6.866,8.521,5.98,m
