@@ -1,0 +1,28 @@
+{
+  "archives": [
+    {
+      "archive": "Apollo16_project_and_profiles_20261125.zip",
+      "bytes": 9366158,
+      "sha256": "e48b5732724cc9456639579f4c655b6e7e70eafd3f1bfaa25833ed418e0eeb46",
+      "file_count": 117
+    },
+    {
+      "archive": "Apollo16_Liu_reference_20261125.zip",
+      "bytes": 16072459,
+      "sha256": "adb79ccd92b2750917c90792fc4f58fae538813d25506504fd5feee069d9f245",
+      "file_count": 5
+    },
+    {
+      "archive": "Apollo16_other_reference_layers_20261125.zip",
+      "bytes": 11392860,
+      "sha256": "adba1c3c50deff151812708ffc4d3fc37e5d5292360f88e1e07723deed38587f",
+      "file_count": 10
+    }
+  ],
+  "total_extracted_files": 132,
+  "CRC_checks": "all pass",
+  "files_overlap_across_archives": false,
+  "maps": 3,
+  "map_portability_test": "all 3 reopened in relocated folder with no broken data sources",
+  "excluded": "reviewer letters, manuscripts, detection source code, temporary locks and private build inventories"
+}
